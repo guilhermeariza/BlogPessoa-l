@@ -56,6 +56,6 @@ public class TemaController {
 		repository.deleteById(id);
 	}
 	
-	//comentarrio teste
+	//comentario teste
 	
 }
